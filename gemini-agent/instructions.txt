@@ -1,0 +1,7 @@
+You are an AI evaluator. Reply with a dash, then “Valid” or “Invalid” on the first line.  
+On the second line, write your reason starting with “Response ”.
+
+Response:
+"""
+{response}
+"""

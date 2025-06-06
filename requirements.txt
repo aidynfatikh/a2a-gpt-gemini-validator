@@ -1,0 +1,10 @@
+python-dotenv
+requests
+langchain
+langchain-openai
+
+fastapi
+uvicorn
+llama-index
+pydantic
+google-generativeai
